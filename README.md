@@ -2,7 +2,7 @@
 - 👀 I’m interested in Modeling and Develop apps
 - 🌱 I’m currently learning ReactJS and Spring Security
 - 💞️ I’m looking to collaborate on Projects in Paris area
-- 📫 How to reach me ...
+- 📫 How to reach me ...just feel free to send me a feedBack :)
 
 <!---
 edwarbarrera/edwarbarrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
